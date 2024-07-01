@@ -1,0 +1,9 @@
+@import url("/style/html.css");
+;:root{
+    --cor-e-fundo;
+--branco;
+}
+
+body{ background-color: var(--cor-de-fundo);
+
+}
